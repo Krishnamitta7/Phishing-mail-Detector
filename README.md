@@ -1,1 +1,1 @@
-# Phishing-mail-Detector
+# Phishing_Mail_Detector_Extension
